@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 asd2226
-=======
-call me now
->>>>>>> new
+
