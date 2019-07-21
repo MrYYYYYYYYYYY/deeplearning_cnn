@@ -1,2 +1,2 @@
 # deeplearning_cnn
-face recognization
+face recognition
