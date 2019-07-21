@@ -1,0 +1,3 @@
+appearance.py为程序前端，直接运行即可启动本程序，特定人脸检测前要先采集对象人脸信息后再进行识别
+face_capture.py为人脸素材捕捉源文件
+face_recognization_train为人脸识别模型训练源文件
